@@ -1,0 +1,17 @@
+ML:
+
+Endpoints are as below
+
+"https://invoices.uipath.com"
+"https://receipts.uipath.com"
+
+"https://du-us.uipath.com/ie/invoices"
+"https://du-us.uipath.com/ie/receipts"
+
+Form Based extractor:
+Endpoint is already generated
+
+API key (same to all) - "6Pp3TgpjRzY8ydf2zUXzTVADsjFq/qeDTfR+IpYgxweqiQHb0/zkOJ5dvnU0tDZzInb8zpywVTDhUHuV44+bVw=="
+
+
+If you are using the paid OCRs then yes we need licenseIf you use Uipath Document OCR, then you can provide the API from the DEV orchestrator info as it will be available for every admin created in the orchestratorIf you use Omnipage OCR then no need to give API
